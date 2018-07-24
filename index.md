@@ -2,12 +2,12 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "Stanford University"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "FIXME"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "Sapp Center (Old Chem) Room 115, 376 Lomita Dr, Stanford, CA 94305"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "37.433075, -122.175049"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "September 06-07, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "FIXME"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humantime: "08:30 - 16:30"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-09-06      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2018-09-07        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Zac Painter", "Šimon Podhajský"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
@@ -149,12 +149,11 @@ and our administrator may contact you if we need any extra information.</h4>
   <li>Accessible restrooms are available.</li>
 </ul>
 <p>
-  Materials will be provided in advance of the workshop and
-  large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
-  you (e.g. sign-language interpreters, lactation facilities) please
-  get in touch (using contact details below) and we will
-  attempt to provide them.
+Materials will be provided in advance of the workshop and we will do our
+best to accommodate special need requests in order to facilitate 
+learning. Please notifying the organizers (contact details below) in 
+advance, so they can discuss with you what can be provided.
+
 </p>
 
 {% comment %}
